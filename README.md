@@ -99,8 +99,9 @@ cat ~/.ssh/id_rsa.pub | pbcopy
 ```
 
 ##### Add to Github
-
+```shell
 Github SSH key [https://github.com/settings/ssh]
+```
 
 ##### Test connection
 ```shell
