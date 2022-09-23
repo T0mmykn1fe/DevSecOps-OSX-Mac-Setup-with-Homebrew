@@ -193,7 +193,7 @@ $ sudo gem install lolcat
 ```
 Then head into your .zshrc file and add the config to the bottom of the file
 ```shell
-Fortune | cowsay -f vader | lolcat
+fortune | cowsay -f vader | lolcat
 ```
 ![alt tag](https://camo.githubusercontent.com/d27a8eb644869e5ecaee2dc35382afcc5f547adf/68747470733a2f2f7261772e6769746875622e636f6d2f627573796c6f6f702f6c6f6c6361742f6d61737465722f6173732f73637265656e73686f742e706e67)
 
